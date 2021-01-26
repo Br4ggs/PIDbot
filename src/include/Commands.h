@@ -1,0 +1,20 @@
+#ifndef ROBOTGUIDE_COMMANDS_H
+#define ROBOTGUIDE_COMMANDS_H
+
+enum class Commands
+{
+    FORN,
+    BACN,
+    TULN,
+    TURN,
+    SETMTRVARP,
+    SETMTRVARI,
+    SETMTRVARD,
+    SETDLTVARP,
+    SETDLTVARI,
+    SETDLTVARD,
+    PRINTPIDVARS,
+    NOT_A_COMMAND
+};
+
+#endif
