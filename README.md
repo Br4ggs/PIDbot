@@ -1,5 +1,5 @@
 # PIDbot
-PIDbot is a 2-wheeled robot which makes use of multiple PID-controllers to be able to drive around with precision. The main intent of this project was to demonstrate the usage of PID-controllers in a tangible way that highlights their usefulness and versatility.
+PIDbot is a 2-wheeled robot which makes use of multiple PID-controllers to be able to drive around with precision. The main intent of this project was to demonstrate the usage of PID-controllers in a tangible way that highlights their usefulness and versatility. You can see the robot in action [here](https://youtu.be/BozTpqbJ4OE)!
 
 <div align="center">
 <img src="images/robotguide.jpg" alt="Robot guide" width="50%" height="50%">
